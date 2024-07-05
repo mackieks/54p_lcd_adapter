@@ -8,7 +8,7 @@ Design from 2019
 
 <img src="https://github.com/mackieks/54p_lcd_adapter/blob/main/images/IMG_20201118_131959.jpg" width=500> 
 
-<img src="https://github.com/mackieks/54p_lcd_adapter/blob/main/images/IMG_20191111_163619.jpg" width=500>
+<img src="https://github.com/mackieks/54p_lcd_adapter/blob/main/images/IMG_20191111_163619-2.jpg" width=500>
 
 ## License
 Solderpad Hardware License v2.1
